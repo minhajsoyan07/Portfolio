@@ -1,0 +1,119 @@
+{
+  "hero": {
+    "name": "Minhajul Islam",
+    "role": "Junior Software Developer | CSE Student",
+    "description": "I am a motivated developer with a strong foundation in programming and a keen interest in web and app development. Seeking to apply my problem-solving skills and meticulous attention to detail to contribute to high-quality software projects while pursuing professional growth.",
+    "socialLinks": {
+      "github": "https://github.com/minhajul-islam07",
+      "linkedin": "https://www.linkedin.com/in/minhajul-islam07",
+      "email": "mailto:misoyan07@gmail.com",
+      "facebook": "https://facebook.com"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm Minhajul Islam, currently in my 12th semester of B.Sc. in Computer Science and Engineering at IUBAT, maintaining a CGPA of 3.45. I completed my HSC from Bonarpara Govt. College (GPA 5.00) and SSC from Kazi Azhar Ali Model High School.",
+    "training": [
+      {
+        "course": "Mobile App Development",
+        "duration": "4 Months",
+        "institute": "EDGE Bangladesh"
+      },
+      {
+        "course": "Script to Screen Video Editing",
+        "duration": "2 Months",
+        "institute": "Mathaholic"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Education",
+        "value": 16,
+        "suffix": "+ Years"
+      },
+      {
+        "label": "Projects",
+        "value": 10,
+        "suffix": "+"
+      },
+      {
+        "label": "Skills",
+        "value": 15,
+        "suffix": "+"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "Building responsive and dynamic websites using React, Node.js, and modern web technologies.",
+      "icon": "FaCode"
+    },
+    {
+      "id": 2,
+      "title": "Mobile App Development",
+      "description": "Developing cross-platform mobile applications with Flutter for Android and iOS.",
+      "icon": "FaLaptopCode"
+    },
+    {
+      "id": 3,
+      "title": "Video Editing",
+      "description": "Professional video editing and post-production using Adobe Premiere Pro.",
+      "icon": "FaPalette"
+    },
+    {
+      "id": 4,
+      "title": "Software Development",
+      "description": "Developing efficient software solutions using C, C++, Java, and Python.",
+      "icon": "FaPlug"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mobile App Development",
+      "description": "A cross-platform mobile application built with Flutter. (Training Project)",
+      "tech": [
+        "Flutter",
+        "Dart",
+        "Android/iOS"
+      ],
+      "demo": "#",
+      "github": "https://github.com/minhajul-islam07",
+      "image": "/mobile_app_project.png"
+    },
+    {
+      "id": 2,
+      "title": "Web Application",
+      "description": "A full-stack web application using React and Node.js.",
+      "tech": [
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS"
+      ],
+      "demo": "#",
+      "github": "https://github.com/minhajul-islam07",
+      "image": "/web_app_project.png"
+    },
+    {
+      "id": 3,
+      "title": "University Management System",
+      "description": "A comprehensive system for managing university resources.",
+      "tech": [
+        "Java",
+        "C++",
+        "Database"
+      ],
+      "demo": "#",
+      "github": "https://github.com/minhajul-islam07",
+      "image": "/university_mgt_project.png"
+    }
+  ],
+  "contact": {
+    "email": "misoyan07@gmail.com",
+    "phone": "+880 1518 913006",
+    "address": "Sector 10, Uttara, Dhaka"
+  }
+}
